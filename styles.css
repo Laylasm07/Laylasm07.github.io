@@ -20,7 +20,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: lightslategray;
+    background: rgb(118, 232, 236);
     /* rounded corners for the blobs */
     border-radius: 25%;
 }
@@ -33,7 +33,7 @@ h1 {
     width: 400px;
     height: 300px;
     margin: 10px auto;
-    border: 2px solid navy;
+    border: 2px solid rgb(100, 248, 125);
     display: block;
     /* center the images inside the blobs */
     text-align: center;
